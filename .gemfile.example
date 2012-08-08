@@ -1,0 +1,3 @@
+group :test do
+  gem 'ruby-libvirt', '~>0.4.0'
+end
